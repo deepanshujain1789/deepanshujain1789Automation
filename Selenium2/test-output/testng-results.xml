@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37369" started-at="2019-04-24T07:34:39Z" finished-at="2019-04-24T07:35:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37369" started-at="2019-04-24T07:34:39Z" finished-at="2019-04-24T07:35:16Z">
+      <class name="com.wordPress.testcases.verifyLoginPage">
+        <test-method status="PASS" signature="launchBrowserTest()[pri:0, instance:com.wordPress.testcases.verifyLoginPage@27efef64]" name="launchBrowserTest" is-config="true" duration-ms="9747" started-at="2019-04-24T07:34:39Z" finished-at="2019-04-24T07:34:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserTest -->
+        <test-method status="PASS" signature="loginWordPressTest()[pri:1, instance:com.wordPress.testcases.verifyLoginPage@27efef64]" name="loginWordPressTest" duration-ms="6683" started-at="2019-04-24T07:34:49Z" finished-at="2019-04-24T07:34:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWordPressTest -->
+        <test-method status="PASS" signature="addNewPostTest()[pri:2, instance:com.wordPress.testcases.verifyLoginPage@27efef64]" name="addNewPostTest" duration-ms="9917" started-at="2019-04-24T07:34:55Z" finished-at="2019-04-24T07:35:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewPostTest -->
+        <test-method status="PASS" signature="write_postTest()[pri:3, instance:com.wordPress.testcases.verifyLoginPage@27efef64]" name="write_postTest" duration-ms="152" started-at="2019-04-24T07:35:05Z" finished-at="2019-04-24T07:35:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write_postTest -->
+        <test-method status="PASS" signature="publish_postTest()[pri:4, instance:com.wordPress.testcases.verifyLoginPage@27efef64]" name="publish_postTest" duration-ms="5389" started-at="2019-04-24T07:35:05Z" finished-at="2019-04-24T07:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publish_postTest -->
+        <test-method status="PASS" signature="postVerificationTest()[pri:5, instance:com.wordPress.testcases.verifyLoginPage@27efef64]" name="postVerificationTest" duration-ms="3634" started-at="2019-04-24T07:35:11Z" finished-at="2019-04-24T07:35:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postVerificationTest -->
+        <test-method status="PASS" signature="close_browserTest()[pri:0, instance:com.wordPress.testcases.verifyLoginPage@27efef64]" name="close_browserTest" is-config="true" duration-ms="1821" started-at="2019-04-24T07:35:14Z" finished-at="2019-04-24T07:35:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browserTest -->
+      </class> <!-- com.wordPress.testcases.verifyLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
