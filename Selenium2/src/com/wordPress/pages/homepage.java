@@ -10,6 +10,7 @@ public class homepage
  {
 	 
  }
+ //change
  @FindBy(xpath="//div[contains(text(),'Posts')]") 
  WebElement post;
  @FindBy(xpath="//div[contains(text(),'Media')]") 
